@@ -1,11 +1,12 @@
+# Notes App 📝
+
+### Notes App built with Django REST framework and React.
+
 <div align="center">
 
-# Notes App 
-
-### Fullstack Notes App built with Django framework and React.
-
 ### App Preview :
-<img width="50%" src="https://www.linkpicture.com/q/Notes.png"/>
+<img width="50%" src="https://imgur.com/xuPpJik.png"/>
+
 </div>
 
 
